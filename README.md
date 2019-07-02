@@ -4,7 +4,7 @@ Creates a test server for the purpose of testing HTTP Headers and SNI properties
 
 ## Quick Start
 
-`docker run -p 80:3080 443:3443 obezuk/test-sni`
+`docker run -p 80:3080 -p 443:3443 obezuk/test-sni`
 
 ## Build
 
